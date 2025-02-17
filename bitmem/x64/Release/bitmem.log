@@ -1,9 +1,0 @@
-﻿  main.cpp
-  Generating code
-  1633 of 1899 functions (86.0%) were compiled, the rest were copied from previous compilation.
-    1 functions were new in current compilation
-    38 functions had inline decision re-evaluated but remain unchanged
-  Finished generating code
-  bitmem.vcxproj -> C:\Users\leode\source\repos\bitmem\x64\Release\bitmem.exe
-  'pwsh.exe' is not recognized as an internal or external command,
-  operable program or batch file.
