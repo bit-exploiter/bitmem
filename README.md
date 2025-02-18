@@ -1,0 +1,1 @@
+basic ass stealer nun out of the ordinary. if i ever get bored ill probably pick up on it again and make it compatible with most popular web browsers like opera and brave and edge. if you want, give suggestions in the issues tab for any cool features like crypto and stuff. this is it for now.
